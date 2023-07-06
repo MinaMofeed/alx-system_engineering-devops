@@ -1,2 +1,2 @@
 #!/bin/bash
-cdmod ug+x,o+r hello
+cdmod ug+x ,o+r hello
